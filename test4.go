@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"time"
 )
 
@@ -30,6 +29,6 @@ func AnniversaryDate() time.Time {
 	panic("Please implement the AnniversaryDate function")
 }
 
-func main() {
-	fmt.Println(Schedule("2006-01-02T15:04:05Z	"))
-}
+//func main() {
+//	fmt.Println(Schedule("2006-01-02T15:04:05Z	"))
+//}

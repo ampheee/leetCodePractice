@@ -13,7 +13,7 @@ func containsKey(m, k interface{}) bool {
 	return v != reflect.Value{}
 }
 
-func main() {
+func task2() {
 	years, max := 0, 0
 	fmt.Fscan(os.Stdin, &years)
 	allYearsSlice := make(map[string]int, years)

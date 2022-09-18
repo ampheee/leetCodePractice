@@ -2,10 +2,6 @@ package main
 
 import "testing"
 
-func main() {
-
-}
-
 func isValid(s string) bool {
 	mOE := map[rune]int{
 		'(': 0,

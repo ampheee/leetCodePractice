@@ -1,4 +1,4 @@
-package main
+package solved
 
 func isSubsequence(s string, t string) bool {
 	if len(s) > len(t) {

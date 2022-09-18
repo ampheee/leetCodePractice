@@ -6,7 +6,7 @@ import (
 	"sort"
 )
 
-func main() {
+func task1() {
 	var first, second = make([]int, 4), make([]int, 4)
 	for i := 0; i < len(first); i++ {
 		fmt.Fscan(os.Stdin, &first[i])
