@@ -1,4 +1,4 @@
-package solved
+package easy
 
 func longestCommonPrefix(strs []string) string {
 	var min int

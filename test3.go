@@ -14,7 +14,7 @@ func abs(a int) int {
 	}
 }
 
-func main() {
+func task3() {
 	var days, totalsum int
 	fmt.Fscan(os.Stdin, &days)
 	minus, plus := make([]int, 0), make([]int, 0)

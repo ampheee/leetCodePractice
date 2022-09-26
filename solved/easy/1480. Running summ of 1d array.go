@@ -1,4 +1,4 @@
-package solved
+package easy
 
 func runningSum(nums []int) []int {
 	var tempSum int

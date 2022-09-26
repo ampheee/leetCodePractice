@@ -1,4 +1,4 @@
-package solved
+package easy
 
 import "strconv"
 

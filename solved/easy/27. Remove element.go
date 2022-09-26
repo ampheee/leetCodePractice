@@ -1,4 +1,4 @@
-package solved
+package easy
 
 func removeElement(nums []int, val int) int {
 	var (
